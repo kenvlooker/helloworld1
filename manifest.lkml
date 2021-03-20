@@ -1,6 +1,7 @@
 project_name: "helloworld1"
 
 application: helloworld1 {
+
   label: "helloworld"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
