@@ -1,6 +1,6 @@
-project_name: "helloworld"
+project_name: "helloworld1"
 
-application: helloworld {
+application: helloworld1 {
   label: "helloworld"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
